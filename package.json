@@ -1,0 +1,8 @@
+{
+  "name": "quvo-browser",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {"start": "node server.js"},
+  "dependencies": {"express": "^4.21.2", "http-proxy-middleware": "^3.0.3"},
+  "engines": {"node": ">=20"}
+}
